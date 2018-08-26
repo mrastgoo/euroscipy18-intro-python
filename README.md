@@ -42,11 +42,10 @@ See https://www.python.org/about/ for more information about
 distinguishing features of Python.
 
 In this course we will try to cover:
-* basic_types
-* control_flow
+* basic types
+* control flow
 * functions
-* basic_operation
-* main_scripts
-* input_output
-* standard_libraries
+* reusing code
+* input-output
+* standard libraries
 * object-oriented programming

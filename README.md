@@ -1,5 +1,7 @@
 # Introduction to Python language
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/mrastgoo/euroscipy18-intro-python/master)
+
 We introduce here the Python language. 
 The material presented are in reference form [scipy-lecture-notes](http://www.scipy-lectures.org/intro/index.html). 
 To learn more about the language, consider going through the
@@ -49,3 +51,24 @@ In this course we will try to cover:
 * input-output
 * standard libraries
 * object-oriented programming
+
+
+## Requirements
+
+Clone or save the zip folder of the git repository
+   
+   ```
+        git clone https://github.com/mrastgoo/euroscipy18-intro-python.git
+        
+    ```
+By installing [Anaconda3](https://www.anaconda.com/download/#linux) or miniconda3 you should have all the necessary packages.
+
+Otherwise, make sure to have 
+
+    * jupyter lab
+    * jupyter notebook
+    * numpy 
+    * python 3.6
+
+**In case of any problem in running the notebooks locally from your pc use `mybinder` to access the notebooks**
+

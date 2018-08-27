@@ -1,6 +1,2 @@
 This is the first line of data.txt
-This is the second line of data.txtHere is the third line
- Here is the third line
- The fourth line. 
-
- où la présence exceptionnelle du roi n’a pas toujours été appréciée. 
+This is the second line of data.txt

@@ -57,10 +57,12 @@ In this course we will try to cover:
 
 Clone or save the zip folder of the git repository
    
-   ```
+```
         git clone https://github.com/mrastgoo/euroscipy18-intro-python.git
         
-    ```
+
+```
+
 By installing [Anaconda3](https://www.anaconda.com/download/#linux) or miniconda3 you should have all the necessary packages.
 
 Otherwise, make sure to have 

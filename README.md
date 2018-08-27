@@ -72,5 +72,5 @@ Otherwise, make sure to have
     * numpy 
     * python 3.6
 
-**In case of any problem in running the notebooks locally from your pc use `mybinder` to access the notebooks**
+**In case of any problem in running the notebooks locally from your pc use `launch-binder` to access the notebooks**
 
